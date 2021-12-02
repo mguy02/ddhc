@@ -3,6 +3,11 @@
 Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
 
 En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et sous les auspices de l'Etre suprême, les droits suivants de l'Homme et du Citoyen.
+**Art. 0.** Ne jamais parler de la présente Déclaration.
+
+**Art. O bis.** On ne doit jamais évoquer la présente Déclaration.
+
+**Art. 0 ter.** Respecter les deux précédents articles.
 
 **Art. 1er.** Les hommes naissent et demeurent libres et égaux en droits et en gauches. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
@@ -23,6 +28,20 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la loi.  
 
 **Art. 9bis. ** Lapalice n'aurait pas dit mieux.
+
+         &
+      .-"`"-.
+     /       \
+     |   __  _|
+     |  /  \/ \
+    WW  \_o/_o/
+    (        _)
+     |   .----\
+     ;  | '----'
+      \__'--;`
+      |___/\|
+
+
 
 **Art. 10.** Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la Loi.
 
